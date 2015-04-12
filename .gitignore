@@ -44,3 +44,5 @@ build/Xcode/FlatBuffers.xcodeproj/xcuserdata/**
 java/.idea
 java/*.iml
 java/target
+CTestTestfile.cmake
+CMakeFiles
